@@ -106,7 +106,7 @@ GND    -->  GND
 PIN2    -->  IN1
 PIN3    -->  IN2
 
-![](images/diagrama.png)
+![](images/squema.jpeg)
 
 Relee --> Jetson Botton Header o Button Socket
 NO(normalmente abierto(el de arriba) -->  PWR BTN
