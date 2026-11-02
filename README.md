@@ -6,7 +6,6 @@
 ![](images/SSH.png)
 ![](images/arduino_IoT_app.png)
 
-![[Pasted image 20261101235935.png]]
 ### Tu tambien puedes usar lo para encender cualquier PC, mini PC o RasberryPi remotamente usando cualquier ESP32 o ESP8266.
 
 ### Como hacerlo:
@@ -106,7 +105,8 @@ GND    -->  GND
 PIN2    -->  IN1
 PIN3    -->  IN2
 
-![](images/squema.jpeg)
+![](images/squema.jpg)
+
 
 Relee --> Jetson Botton Header o Button Socket
 NO(normalmente abierto(el de arriba) -->  PWR BTN
