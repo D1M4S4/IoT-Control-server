@@ -102,7 +102,7 @@
 
 | ESP32 | Modulo Relee |
 |---|---|
-| 5V | VCC logico |
+| 5V | VCC |
 | GND | GND |
 | GPIO2 | IN1 |
 | GPIO3 | IN2 |
