@@ -99,11 +99,13 @@
     - Título "RESET" y vincúlalo a la variable rele_2.
 
 ### Pines:
-ESP32 -->  Modulo Relee 
-5V       -->  VCC
-GND    -->  GND
-PIN2    -->  IN1
-PIN3    -->  IN2
+
+| ESP32 | Modulo Relee |
+|---|---|
+| 5V | VCC logico |
+| GND | GND |
+| GPIO2 | IN1 |
+| GPIO3 | IN2 |
 
 ![](images/squema.jpg)
 
