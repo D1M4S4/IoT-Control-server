@@ -109,19 +109,25 @@
 
 ![](images/squema.jpg)
 
+### Modulo Relee --> Jetson Botton Header o Button Socket
 
-Relee --> Jetson Botton Header o Button Socket
-NO(normalmente abierto(el de arriba) -->  PWR BTN
-COM(comun (el de en medio)               -->  GND
+| Relee 1 | Jetson |
+|---|---|
+| NO(normalmente abierto(el de arriba) | PWR BTN |
+| COM(comun (el de en medio) | GND |
 
-Relee 2 --> Jetson Botton Header o Button Socket
-NO(normalmente abierto(el de arriba) -->  SYS RST
-COM(comun (el de en medio)               -->  GND
+| Relee 2 | Jetson |
+|---|---|
+| NO(normalmente abierto(el de arriba) | SYS RST |
+| COM(comun (el de en medio) | GND |
 
-PUENTE ENTRE : DISABLE y AUTO ON
 
-LED + --> catodo 
-LED - --> anodo
+| Jetson |  |
+|---|---|
+| DISABLE | AUTO ON |
+| LED + | catodo |
+| LED - | anodo|
+
 
 
 
